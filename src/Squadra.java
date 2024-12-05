@@ -8,5 +8,9 @@
  * @author Tommaso06
  */
 public class Squadra {
-    
+       public int ID;
+       
+       public Squadra(int ID){
+           this.ID=ID;
+       }
 }
