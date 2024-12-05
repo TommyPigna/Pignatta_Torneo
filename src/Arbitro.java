@@ -8,5 +8,9 @@
  * @author Tommaso06
  */
 public class Arbitro {
+    public String nome;
     
+    public Arbitro(String nome){
+        this.nome=nome;
+    }
 }
