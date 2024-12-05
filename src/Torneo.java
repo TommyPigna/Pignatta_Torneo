@@ -15,6 +15,7 @@ public class Torneo {
     public static void main(String[] args) {
         System.out.println("AVVIO DEL TORNEO!!!");
         System.out.println("FINE DEL TORNEO!!!");
+        System.out.println("LA SQUADRA E' STATA REGISTRATA");
         }
     
 }
